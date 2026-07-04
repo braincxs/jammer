@@ -2,7 +2,7 @@ Jammer: this is a devide that can interrupt bluetooh, wifi and frequency.
 
 NOTE: THIS IS VERY ILLEGAL PLS DO NOT USE THIS IN PUBLIC
 
-Video Demo: https://drive.google.com/file/d/1PGGs2MVfGtxePPiEJyBpu9q_LkPHr90N/view
+Video Demo: https://www.youtube.com/watch?v=kmlDtXSCuc8
 
 The components that are needed:
 - ESP32 Dev Module (Recommended: ESP32-32U CP2102, any ESP32 should work as long as it has the needed pins, 38P required!)
