@@ -6,6 +6,7 @@ NOTE: THIS IS VERY ILLEGAL PLS DO NOT USE THIS IN PUBLIC
 Video Demo: https://www.youtube.com/watch?v=kmlDtXSCuc8
 
 You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/
+
 DO THIS AT YOUR RISK
 
 The components that are needed:
