@@ -1,4 +1,5 @@
-Jammer: this is a devide that can interrupt bluetooh, wifi and frequency.
+Jammer: 
+this is a devide that can interrupt bluetooh, wifi and frequency. This device jams things by making a lot of sounds at a certain frequency which makes devides to unable to work or function
 
 NOTE: THIS IS VERY ILLEGAL PLS DO NOT USE THIS IN PUBLIC
 
