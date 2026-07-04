@@ -4,17 +4,18 @@ NOTE: THIS IS VERY ILLEGAL PLS DO NOT USE THIS IN PUBLIC
 
 Video Demo: https://drive.google.com/file/d/1PGGs2MVfGtxePPiEJyBpu9q_LkPHr90N/view
 
-The components that are needed
-ESP32 Dev Module (Recommended: ESP32-32U CP2102, any ESP32 should work as long as it has the needed pins, 38P required!)
-nRF24L01+PA+LNA (2x)
-10-100uF Capacitor (2x) (any voltage above 5V)
-0.96" OLED Display I2C
-Slide Switch (2x)
-LEDs: 3mm LED box
-Resistor kit
-R1 = 1kOhm
-R2, R3, R5, R7 = 47kOhm
-R4, R6 = 100kOhm
+The components that are needed:
+- ESP32 Dev Module (Recommended: ESP32-32U CP2102, any ESP32 should work as long as it has the needed pins, 38P required!)
+- nRF24L01+PA+LNA (2x)
+- 10-100uF Capacitor (2x) (any voltage above 5V)
+- 0.96" OLED Display I2C
+- Slide Switch (2x)
+- LEDs: 3mm LED box
+- Resistor kit
+- R1 = 1kOhm
+- R2, R3, R5, R7 = 47kOhm
+- R4, R6 = 100kOhm
+
 
 | 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uf capacitor |
 |---------------|------------------|--------------------|
@@ -62,3 +63,5 @@ R4, R6 = 100kOhm
 |                     |                      | OUT +                  | Switch in         |       |
 |                     |                      | OUT -                  |                   |  GND  |
 |                     |                      |                        | Switch out        |  3V3  |
+
+Here is the origional repo for anyone who wants a more detail guide: https://github.com/EmenstaNougat/ESP32-BlueJammer
