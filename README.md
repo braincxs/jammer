@@ -10,16 +10,16 @@ You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/
 DO THIS AT YOUR RISK
 
 The components that are needed:
-- ESP32 Dev Module (Recommended: ESP32-32U CP2102, any ESP32 should work as long as it has the needed pins, 38P required!)
-- nRF24L01+PA+LNA (2x)
-- 10-100uF Capacitor (2x) (any voltage above 5V)
-- 0.96" OLED Display I2C
-- Slide Switch (2x)
-- LEDs: 3mm LED box
-- Resistor kit
-- R1 = 1kOhm
-- R2, R3, R5, R7 = 47kOhm
-- R4, R6 = 100kOhm
+- ESP32 Dev Module (Recommended: ESP32-32U CP2102, any ESP32 should work as long as it has the needed pins, 38P required!) $5.50
+- nRF24L01+PA+LNA (2x)                                                                                                     $6.50 (2x)
+- 10-100uF Capacitor (2x) (any voltage above 5V)                                                                           $0.40 (2x)
+- 0.96" OLED Display I2C                                                                                                   $3.00
+- Slide Switch (2x)                                                                                                        $0.60
+- LEDs: 3mm LED box                                                                                                        $3.50
+- Resistor kit:
+              - R1 = 1kOhm
+              - R2, R3, R5, R7 = 47kOhm
+              - R4, R6 = 100kOhm
 
 
 | 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uf capacitor |
