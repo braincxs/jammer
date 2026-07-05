@@ -16,7 +16,7 @@ The components that are needed:
 - 0.96" OLED Display I2C                                                                                                   $3.00
 - Slide Switch (2x)                                                                                                        $0.60
 - LEDs: 3mm LED box                                                                                                        $3.50
-- Resistor kit:
+- Resistor kit :
               - R1 = 1kOhm
               - R2, R3, R5, R7 = 47kOhm
               - R4, R6 = 100kOhm
