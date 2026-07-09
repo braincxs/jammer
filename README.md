@@ -1,15 +1,17 @@
-Jammer: 
+# Jammer: 
 this is a devide that can interrupt bluetooh, wifi and frequency. This device jams things by making a lot of sounds at a certain frequency which makes devides to unable to work or function
 
-NOTE: THIS IS VERY ILLEGAL PLS DO NOT USE THIS IN PUBLIC
+# NOTE: THIS IS VERY ILLEGAL PLS DO NOT USE THIS IN PUBLIC
 
-Video Demo: https://www.youtube.com/watch?v=kmlDtXSCuc8
+# Video Demo: 
+https://www.youtube.com/watch?v=kmlDtXSCuc8
 
-You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/
+# How to upload code: 
+You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/ or use your own flashing system to put these files into Esp21
 
-DO THIS AT YOUR RISK
+# DO THIS AT YOUR RISK
 
-The components that are needed:
+# The components that are needed:
 - ESP32 Dev Module (Recommended: ESP32-32U CP2102, any ESP32 should work as long as it has the needed pins, 38P required!) $5.50
 - nRF24L01+PA+LNA (2x)                                                                                                     $6.50 (2x)
 - 10-100uF Capacitor (2x) (any voltage above 5V)                                                                           $0.40 (2x)
@@ -21,7 +23,7 @@ The components that are needed:
               - R2, R3, R5, R7 = 47kOhm
               - R4, R6 = 100kOhm
 
-
+# The wiring
 | 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uf capacitor |
 |---------------|------------------|--------------------|
 | VCC           | 3.3V             | (+) capacitor |
