@@ -35,7 +35,6 @@ You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/ o
 | MISO          | GPIO 12          |
 | IRQ           |                  |
 
-### VSPI 
 | 2nd nRF24L01 module Pin | VSPI Pin (ESP32) | 10uf capacitor |
 |---------------|------------------|--------------------|
 | VCC           | 3.3V             | (+) capacitor |
