@@ -25,7 +25,7 @@ You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/ o
 
 # The wiring
 
-<img width="1737" height="387" alt="wiringDiagram" src="https://github.com/user-attachments/assets/5fce3d9e-8879-4089-bcff-a6bcac620809" />
+<img width="3443" height="2073" alt="wiringDiagram" src="https://github.com/user-attachments/assets/2beb7807-d73e-462a-add0-b321bcd1c2b7" />
 
 
 | 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uf capacitor |
