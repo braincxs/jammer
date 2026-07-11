@@ -24,6 +24,10 @@ You can flash your esp32 with this: https://esp32-bluejammerflasher.pages.dev/ o
               - R4, R6 = 100kOhm
 
 # The wiring
+
+<img width="1737" height="387" alt="wiringDiagram" src="https://github.com/user-attachments/assets/5fce3d9e-8879-4089-bcff-a6bcac620809" />
+
+
 | 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uf capacitor |
 |---------------|------------------|--------------------|
 | VCC           | 3.3V             | (+) capacitor |
